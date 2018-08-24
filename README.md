@@ -1,6 +1,6 @@
-# aero
+# webpack-simple-bootstrap
 
-> test task for aero company
+> webpack-simple width bootstrap
 
 ## Build Setup
 
